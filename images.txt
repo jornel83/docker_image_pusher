@@ -136,7 +136,7 @@ node:24.4.0-alpine3.22
 #nvidia/cuda:11.1.1-cudnn8-runtime-ubuntu20.04
 #nvidia/cuda:11.1.1-cudnn8-devel-ubuntu20.04
 #nvidia/cuda:12.2.2-cudnn8-runtime-ubuntu22.04
-#nvidia/cuda:12.2.2-cudnn8-devel-ubuntu22.04
+nvidia/cuda:12.2.2-cudnn8-devel-ubuntu22.04
 #nvidia/cuda:12.3.2-cudnn9-runtime-ubuntu22.04
 #nvidia/cuda:12.3.2-cudnn9-devel-ubuntu22.04
 #nvidia/cuda:12.4.1-cudnn-runtime-ubuntu22.04
